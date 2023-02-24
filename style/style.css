@@ -295,4 +295,15 @@
     .checkboxItens label{
         font-size: 17px;
     }
+
+    /*footer*/
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereco{
+        width: 85%;
+        margin-bottom: 30px;
+    }
 }
